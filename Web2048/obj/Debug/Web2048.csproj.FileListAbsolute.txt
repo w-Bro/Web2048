@@ -1,0 +1,6 @@
+D:\HTML\Web2048\Web2048\Web2048\bin\Web2048.dll.config
+D:\HTML\Web2048\Web2048\Web2048\bin\Web2048.dll
+D:\HTML\Web2048\Web2048\Web2048\bin\Web2048.pdb
+D:\HTML\Web2048\Web2048\Web2048\obj\Debug\Web2048.csprojResolveAssemblyReference.cache
+D:\HTML\Web2048\Web2048\Web2048\obj\Debug\Web2048.dll
+D:\HTML\Web2048\Web2048\Web2048\obj\Debug\Web2048.pdb

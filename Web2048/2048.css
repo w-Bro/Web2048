@@ -1,0 +1,121 @@
+﻿header{
+    display:block;
+    margin:0 auto;
+    width:100%;
+    text-align:center;
+
+}
+
+header h1{
+   /* font-family:Arial;
+    font-size:40px;
+    font-weight:bold;
+    width:40px;
+
+    float:left;*/   
+    color: rgb(119, 110, 101);
+    cursor:pointer;
+    font-family:"微软雅黑";
+    font-size:40px;
+    font-weight:700;
+    line-height:5px;
+    text-decoration:none;
+}
+
+header table{
+    text-align:center;
+    margin:0px auto;
+}
+header #newgamebutton{
+    display:block;
+    margin:20px auto;
+    width:100px;
+    padding:10px 10px;
+    background-color:#8f7a66;
+
+    font-family:Arial;
+    color:white;
+
+    border-radius:10px;
+    text-align:center;
+    text-decoration:none;
+}
+
+header #newgamebuttin:hover{
+    background-color:#9f8b77;
+}
+
+header p{
+    font-family:Arial;
+    font-size:20px;
+   /* margin:20px auto;*/
+    display:block;
+    margin:20px auto;
+    width:100px;
+    padding:10px 10px;
+    text-align:center;
+    background-color:#8f7a66;
+
+    font-family:Arial;
+    color:white;
+
+    border-radius:10px;
+}
+/*.main{
+
+}
+#title{
+     margin-left:420px;
+     width:50px;
+    color: rgb(119, 110, 101);
+    float:left;
+    cursor:pointer;
+    font-family:"微软雅黑";
+    font-size:74px;
+    font-weight:700;
+    line-height:5px;
+    text-decoration:none;
+}
+.scores{
+    float:left;
+    display:inline-block;
+    float:right;
+    text-align:center;
+    color: rgb(119, 110, 101);
+    font-size:18px;
+    font-family: "Clear Sans","Helvetica Neue",Arial,sans-serif;
+    background-color: rgb(187, 173, 160);
+    border-radius:6px;
+}*/
+
+#grid-container{
+    width:460px;
+    height:460px;
+    padding:20px;
+
+    margin:50px auto;
+    background-color:rgb(187, 173, 160);
+    border-radius:10px;
+    position:relative;
+}
+
+.grid-cell{
+    width:100px;
+    height:100px;
+    /*border-radius:6px;*/
+    background-color:rgb(216, 212, 208);
+    /*opacity:0.5;*/
+    position:absolute;
+}
+
+.num-cell{
+    /*border-radius:6px;*/
+
+    font-family:Arial;
+    font-weight:bold;
+    font-size:45px;
+    line-height:100px;
+    text-align:center;
+    /*opacity:0.8;*/
+    position:absolute;
+}
